@@ -14,7 +14,7 @@
         <options>
           <option name="title_enabled" value="true">
             <options>
-              <option name="title_text" value="Jamjoom_Negotiation_M3_Final" />
+              <option name="title_text" value="Jamjoom_Negotiation_M3_Final13-6" />
             </options>
           </option>
           <option name="logo_enabled" value="false">
@@ -36,7 +36,7 @@
           </optionlist>
           <option name="time_enabled" value="false">
             <options>
-              <option name="time_format" value="" />
+              <option name="time_format" value="none" />
             </options>
           </option>
           <option name="video_enabled" value="false">
@@ -1619,7 +1619,7 @@
             <slidelink slideid="_player.6QERSFmxEN3.6kZLh4MZd2z" displaytext="Position Challenger" expand="false" type="slide" />
             <slidelink slideid="_player.6QERSFmxEN3.6FpyTBhxt9I" displaytext="Mutual Gain" expand="false" type="slide" />
             <slidelink slideid="_player.6QERSFmxEN3.5w44sCdw1gk" displaytext="IF Then" expand="false" type="slide" />
-            <slidelink slideid="_player.6QERSFmxEN3.6ErIoSOCJvU" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.6QERSFmxEN3.6ErIoSOCJvU" displaytext="Keenness" expand="false" type="slide" />
             <slidelink slideid="_player.6QERSFmxEN3.68aRkJlLWfW" displaytext="Naming the price" expand="false" type="slide" />
             <slidelink slideid="_player.6QERSFmxEN3.6ZxC609DxZx" displaytext="Writing Contract" expand="false" type="slide" />
             <slidelink slideid="_player.6QERSFmxEN3.5c65qYYKt8m" displaytext="Flexibility" expand="false" type="slide" />
@@ -1633,6 +1633,12 @@
             <slidelink slideid="_player.6QERSFmxEN3.5fUkVLu7IFw" displaytext="Buyer Info" expand="false" type="slide" />
             <slidelink slideid="_player.6QERSFmxEN3.6JJysGRQBoR" displaytext="Seller Info " expand="false" type="slide" />
             <slidelink slideid="_player.6QERSFmxEN3.61Gvnm8c9t2" displaytext="Try Again" expand="false" type="slide" />
+            <slidelink slideid="_player.6QERSFmxEN3.6IDgpa4KNYC" displaytext="Quiz Time" expand="false" type="slide" />
+            <slidelink slideid="_player.6QERSFmxEN3.5XepDXTtLh1" displaytext="Q1" expand="false" type="slide" />
+            <slidelink slideid="_player.6QERSFmxEN3.6lLrVXdoToY" displaytext="Q2" expand="false" type="slide" />
+            <slidelink slideid="_player.6QERSFmxEN3.68sgmoAInxg" displaytext="Q3" expand="false" type="slide" />
+            <slidelink slideid="_player.6QERSFmxEN3.5dwvxzuIucJ" displaytext="Q4" expand="false" type="slide" />
+            <slidelink slideid="_player.6QERSFmxEN3.6DQlmLiiQba" displaytext="Q5" expand="false" type="slide" />
             <slidelink slideid="_player.6QERSFmxEN3.6hA80Tu7sAW" displaytext="Pick One" expand="false" type="slide" />
             <slidelink slideid="_player.6QERSFmxEN3.6jwdnGP8014" displaytext="Pick One" expand="false" type="slide" />
             <slidelink slideid="_player.6QERSFmxEN3.5dRFyLX7VXe" displaytext="Pick One" expand="false" type="slide" />
@@ -1641,6 +1647,7 @@
             <slidelink slideid="_player.6QERSFmxEN3.6hizvF8RnV2" displaytext="Pick One" expand="false" type="slide" />
             <slidelink slideid="_player.6QERSFmxEN3.6hBllwyRiPn" displaytext="Recap" expand="false" type="slide" />
             <slidelink slideid="_player.6QERSFmxEN3.6D5DFMGZ2rl" displaytext="See you soon" expand="false" type="slide" />
+            <slidelink slideid="_player.6QERSFmxEN3.6VywL0QLhEu" displaytext="Certificate" expand="false" type="slide" />
             <slidelink slideid="_player.6QERSFmxEN3.6pBPB0MoEcV" displaytext="The End" expand="false" type="slide" />
           </links>
         </slidelink>
@@ -2928,7 +2935,47 @@
     &lt;/Block&gt;
   &lt;/Content&gt;
 &lt;/Document&gt;</slidetranscript>
-      <slidetranscript slideid="6QERSFmxEN3.6hBllwyRiPn" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="11">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+      <slidetranscript slideid="6QERSFmxEN3.5XepDXTtLh1" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="11">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="Nice, now lets check your mastery the mentioned negotiation  drivers " /&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="6QERSFmxEN3.6lLrVXdoToY" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="11">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="Nice, now lets check your mastery the mentioned negotiation  drivers " /&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="6QERSFmxEN3.68sgmoAInxg" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="11">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="Nice, now lets check your mastery the mentioned negotiation  drivers " /&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="6QERSFmxEN3.5dwvxzuIucJ" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="11">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="Nice, now lets check your mastery the mentioned negotiation  drivers " /&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="6QERSFmxEN3.6DQlmLiiQba" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="11">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="Nice, now lets check your mastery the mentioned negotiation  drivers " /&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="6QERSFmxEN3.6hBllwyRiPn" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="12">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
   &lt;Content&gt;
     &lt;Block&gt;
       &lt;Style /&gt;
@@ -2936,7 +2983,7 @@
     &lt;/Block&gt;
   &lt;/Content&gt;
 &lt;/Document&gt;</slidetranscript>
-      <slidetranscript slideid="6QERSFmxEN3.6D5DFMGZ2rl" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="11">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+      <slidetranscript slideid="6QERSFmxEN3.6D5DFMGZ2rl" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="12">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
   &lt;Content&gt;
     &lt;Block&gt;
       &lt;Style /&gt;
@@ -2944,7 +2991,15 @@
     &lt;/Block&gt;
   &lt;/Content&gt;
 &lt;/Document&gt;</slidetranscript>
-      <slidetranscript slideid="6QERSFmxEN3.6pBPB0MoEcV" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="12">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+      <slidetranscript slideid="6QERSFmxEN3.6VywL0QLhEu" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="12">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="In this slide, the instructor will inform learners on what will they learn in the next modules. " /&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="6QERSFmxEN3.6pBPB0MoEcV" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="13">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
   &lt;Content&gt;
     &lt;Block&gt;
       &lt;Style /&gt;
